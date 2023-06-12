@@ -1,0 +1,17 @@
+Sun Jun 11 2023 12:39:39 GMT+0100 (British Summer Time) 0 12 39 [right meow!] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "received": "10",
+    "code": "invalid_enum_value",
+    "options": [
+      "01",
+      "02",
+      "03"
+    ],
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Invalid enum value. Expected '01' | '02' | '03', received '10'"
+  }
+]
+Sun Jun 11 2023 12:55:00 GMT+0100 (British Summer Time) 0 12 55 [right meow!] error: 🐱‍🏍 globalErrorHandler ~~ Academic semester is already exist !

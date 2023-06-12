@@ -1,0 +1,130 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\.9a9ac96cf82c328c53134f7d89c9705a2bf00997-audit.json",
+    "files": [
+        {
+            "date": 1686124230253,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-07-08-success.log",
+            "hash": "178fc87fa02617e2052db79f7f38e23838afb84f074143f3e11ed205a46f6805"
+        },
+        {
+            "date": 1686133535538,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-07-11-success.log",
+            "hash": "5aa8d45549a49f776cf13b9ef2f93d9dd99c84ce941096b2f3bcc2900a7b3e7f"
+        },
+        {
+            "date": 1686136287136,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-07-12-success.log",
+            "hash": "dbb7e465c4b402c483ed5402ad6cbf4b57d74b55f88ae20aa79d2bce81d18967"
+        },
+        {
+            "date": 1686219637868,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-08-11-success.log",
+            "hash": "90bc37ea095f9c64be0bc8e8fa016facd3b7c2ea38811587f7cd11f6e5281755"
+        },
+        {
+            "date": 1686222047516,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-08-12-success.log",
+            "hash": "c0bdc085cc7c04c3c5331b396d7e66daf18aa28e91d7ece76245d71e3f11937a"
+        },
+        {
+            "date": 1686228253153,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-08-13-success.log",
+            "hash": "115ec0f57360719200e5ce5aadbc8cd5ad0499d4bd62aeead38e94159ee00b10"
+        },
+        {
+            "date": 1686230004830,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-08-14-success.log",
+            "hash": "4fc3b928bfcc44f971a07d2dd0ebfe1f4b48aa656469f8aa1addb780aac3fced"
+        },
+        {
+            "date": 1686233830614,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-08-15-success.log",
+            "hash": "58f10daa3cf2872f2da5806322119a9155b268161957d853c488d3080a7b3607"
+        },
+        {
+            "date": 1686236987632,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-08-16-success.log",
+            "hash": "bcb06d815c12d10e7426921bb8275b3e6210c614af3be2321ac7ee5ccc657f26"
+        },
+        {
+            "date": 1686240133276,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-08-17-success.log",
+            "hash": "93ec268444d304fd5544ec30baf8e203bfe6bcb8540e2e68edcd15e0f43631ee"
+        },
+        {
+            "date": 1686244246525,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-08-18-success.log",
+            "hash": "f3137050f5a6deb09225668f77a195c87acbf2d2f4d8d20ff996fc0b9ac724f8"
+        },
+        {
+            "date": 1686338723716,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-09-20-success.log",
+            "hash": "3a9e610200a3085d15e59b5142c483c2c3c08ff2071580618878fc706666fc77"
+        },
+        {
+            "date": 1686340878683,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-09-21-success.log",
+            "hash": "925f7d2fa9ab362809f14eefd3d3a1718ed0f660146e9132301259579b50e532"
+        },
+        {
+            "date": 1686384463364,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-10-09-success.log",
+            "hash": "e6bd52c3e20b7433059047114bd1935166ee47fd430c2d6b99c115c1deaedbec"
+        },
+        {
+            "date": 1686387771326,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-10-10-success.log",
+            "hash": "5545bda436dc3c17bd290b6a73a628e2a8824f395fd8a343171d580c90c270b7"
+        },
+        {
+            "date": 1686396186305,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-10-12-success.log",
+            "hash": "665583ff657340a1d1a78bd9570e2bd21433e26af7a1e3db7a43f17ddf2935b1"
+        },
+        {
+            "date": 1686398802045,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-10-13-success.log",
+            "hash": "93aef9f750dc6bba7ef85730e1caa6baba9d5f234767db52a7d7564195b25ba8"
+        },
+        {
+            "date": 1686425719368,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-10-20-success.log",
+            "hash": "2da3d31c912f277cf707bd1fd74f2fd068ac79ce924bab0f22fff63752cd7fb8"
+        },
+        {
+            "date": 1686482949881,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-11-12-success.log",
+            "hash": "42af10c7227d6d871e1c4d2b042949386c479ef6f5bf5cdf86a13d3435d461d5"
+        },
+        {
+            "date": 1686507148322,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-11-19-success.log",
+            "hash": "d0365585c685ca84f1d498db3a2c785388908c696171f1df60e3a83eede180cd"
+        },
+        {
+            "date": 1686510404871,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-11-20-success.log",
+            "hash": "2f3fbca4631d68ea028a846ace54e1e84e9ac8c5126d5bdd7aa6af4ee44f5111"
+        },
+        {
+            "date": 1686553570876,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-12-08-success.log",
+            "hash": "945d73b5ebea6eafd5e29d4c6f18aa3a34fbf640143d4baa4d08a33ec4336869"
+        },
+        {
+            "date": 1686564363003,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-12-11-success.log",
+            "hash": "90c23b806b6e0d841cd94b2cf8c3ab6ff3d5574626cda39a0a0a514de3261e43"
+        },
+        {
+            "date": 1686568776170,
+            "name": "C:\\Level-2\\Milestone03\\logs\\winston\\successes\\PHU-2023-06-12-12-success.log",
+            "hash": "0e9486aea2a59ea72507582575390c0b6d9f99a73f66a42fcd3a4554b8a9d214"
+        }
+    ],
+    "hashType": "sha256"
+}
