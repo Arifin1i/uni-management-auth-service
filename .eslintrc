@@ -10,10 +10,10 @@
   "extends": ["eslint:recommended", "plugin:@typescript-eslint/recommended", "prettier"],
 
   "rules": {
-    "no-unused-vars": "warn",
+    "no-unused-vars": "error",
     "no-console": "warn",
     "no-undef": "error",
-    "no-unused-expressions": "warn",
+    "no-unused-expressions": "error",
     "no-unreachable": "error",
     "@typescript-eslint/consistent-type-definitions": "warn"
     /*"no-unused-vars": "error",
